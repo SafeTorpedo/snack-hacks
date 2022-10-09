@@ -9,7 +9,7 @@ const Contact = () => {
                 sx={{
                     fontFamily: "Nunito",
                     fontWeight: "bold",
-                    fontSize: "2.5rem",
+                    fontSize: "3rem",
                     color: "#F67280",
                     margin: "auto",
 
@@ -25,7 +25,7 @@ const Contact = () => {
                     fontFamily: "Nunito",
 
                     fontSize: "1.1rem",
-                    color: "#F67280",
+                    color: "black",
                     margin: "auto",
                     textAlign: "center",
                 }}

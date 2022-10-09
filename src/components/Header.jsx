@@ -42,9 +42,10 @@ const Header = () => {
                                 onChange={(e, value) => setValue(value)}
                                 indicatorColor="white"
                             >
-                                {pages.map((page, index) => (
-                                    <Tab key={index} label={page} />
-                                ))}
+                                <Tab key={0} label="Home" href="/" />
+                                <Tab key={1} label="Services" href="" />
+                                <Tab key={2} label="Contact" href="" />
+                                <Tab key={3} label="About" href="" />
                             </Tabs>
 
                             <Button
