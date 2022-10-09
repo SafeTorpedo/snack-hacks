@@ -29,7 +29,7 @@ const Header = () => {
                             <Typography
                                 sx={{ fontSize: "1.5rem", paddingLeft: "10%" }}
                             >
-                                Food Bank
+                                Food Share
                             </Typography>
                             <DrawerHead />
                         </>

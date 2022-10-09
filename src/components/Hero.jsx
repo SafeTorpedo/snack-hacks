@@ -32,7 +32,7 @@ const Hero = () => {
                 <h1 className={classes.title}>
                     Don't waste food ever again! <br /> Welcome to <br />
                     <span className={classes.colorText}>
-                        Food Bank
+                        Food Share
                         <br />
                     </span>
                 </h1>
